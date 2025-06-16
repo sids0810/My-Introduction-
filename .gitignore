@@ -1,0 +1,73 @@
+# --- General ---
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# --- Python ---
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+*/
+
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Jupyter Notebooks ---
+# Ignore notebook checkpoints
+.ipynb_checkpoints
+
+# --- IDE / Editor specific ---
+# VSCode
+.vscode/
+# PyCharm
+.idea/
+
+# --- Data Files ---
+# It's best practice to not commit large data files to Git.
+# Add your specific data files here.
+# For example:
+# data/
+# *.csv
+# *.json
+# *.parquet
+
+# --- Reports & Output ---
+# Ignore generated reports, plots, or logs
+*.html
+*.pdf
+*.log
+*.svg
+*.png
+
+# --- Secrets & Credentials ---
+# Never commit your API keys, passwords, or other secrets!
+.env
+credentials.json
+secrets.ini
+*.keys
+
+# --- Other ---
+# Add any other specific files or directories you want to ignore below
