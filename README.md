@@ -46,7 +46,7 @@ This GitHub profile serves as a living document of my self-directed educational 
 
 
 
-<h4>Project Philosophy \& Disclaimer</h4>
+<h4>Project Philosophy & Disclaimer</h4>
 
 
 
